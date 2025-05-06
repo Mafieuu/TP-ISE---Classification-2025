@@ -14,6 +14,7 @@ dependencies:
   - brotli-python=1.0.9=py313h5da7b33_9
   - bzip2=1.0.8=h2466b09_7
   - ca-certificates=2025.4.26=h4c7d964_0
+  - cloudpickle=3.1.1=pyhd8ed1ab_0
   - colorama=0.4.6=pyhd8ed1ab_1
   - comm=0.2.2=pyhd8ed1ab_1
   - contourpy=1.3.1=py313h214f63a_0
@@ -75,6 +76,7 @@ dependencies:
   - libxcb=1.17.0=h0e4246c_0
   - libzlib=1.3.1=h2466b09_2
   - lightgbm=4.6.0=py313h5da7b33_0
+  - llvmlite=0.44.0=py313hb80970b_1
   - loguru=0.7.2=py313hfa70ccb_2
   - matplotlib=3.10.0=py313haa95532_1
   - matplotlib-base=3.10.0=py313h7aa5d4e_1
@@ -87,6 +89,7 @@ dependencies:
   - narwhals=1.38.0=pyhe01879c_0
   - nbformat=5.10.4=pyhd8ed1ab_1
   - nest-asyncio=1.6.0=pyhd8ed1ab_1
+  - numba=0.61.2=py313h4ca4f0f_0
   - numexpr=2.10.1=py313h4cd664f_0
   - numpy=2.2.4=py313he6dc315_0
   - numpy-base=2.2.4=py313h6011491_0
@@ -129,9 +132,11 @@ dependencies:
   - seaborn=0.13.2=hd8ed1ab_3
   - seaborn-base=0.13.2=pyhd8ed1ab_3
   - setuptools=72.1.0=py313haa95532_0
+  - shap=0.46.0=py313hce38976_0
   - sip=6.7.12=py313h5da7b33_1
   - six=1.17.0=pyhd8ed1ab_0
   - sklearn-compat=0.1.3=pyhd8ed1ab_0
+  - slicer=0.0.8=pyhd8ed1ab_0
   - stack_data=0.6.3=pyhd8ed1ab_1
   - statsmodels=0.14.4=py313h8e081ca_0
   - tbb=2021.8.0=h59b6b97_0
@@ -139,6 +144,7 @@ dependencies:
   - time-machine=2.16.0=py313ha7868ed_0
   - tk=8.6.13=h5226925_1
   - tornado=6.4.2=py313ha7868ed_0
+  - tqdm=4.67.1=pyhd8ed1ab_1
   - traitlets=5.14.3=pyhd8ed1ab_1
   - typing_extensions=4.13.2=pyh29332c3_0
   - tzdata=2025b=h78e105d_0
